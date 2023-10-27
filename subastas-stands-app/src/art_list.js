@@ -29,7 +29,7 @@ const art_list = [
       "title": "El Amanecer",
       "desc": "Inteligencia Artificial en Óleo",
       "img": ElAmanecerImg,
-      "href": "https://8th.io/fchc8"
+      "href": "https://8th.io/ct5ss"
     },
     {
       "id": 4,
@@ -57,28 +57,28 @@ const art_list = [
         "title": "Lectura Nocturna",
         "desc": "Inteligencia Artificial en Óleo",
         "img": LecturaNocturnaImg,
-        "href": "https://8th.io/2mdk5"
+        "href": "https://8th.io/ct5ss"
       },
       {
         "id": 8,
         "title": "Reunión Familiar",
         "desc": "Inteligencia Artificial en Óleo",
         "img": ReunionFamiliarImg,
-        "href": "https://8th.io/2mdk5"
+        "href": "https://8th.io/ct5ss"
       },
       {
         "id": 9,
         "title": "Visita al Parque",
         "desc": "Inteligencia Artificial en Óleo",
         "img": VisitaAlParqueImg,
-        "href": "https://8th.io/2mdk5"
+        "href": "https://8th.io/ct5ss"
       },
       {
         "id": 10,
         "title": "Vista al Valle",
         "desc": "Inteligencia Artificial en Óleo",
         "img": VistaAlValleImg,
-        "href": "https://8th.io/fchc8"
+        "href": "https://8th.io/ct5ss"
       }
   ]
   
